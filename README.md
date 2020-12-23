@@ -1,2 +1,5 @@
 # hello-world
-just another  repository
+
+Hello Humans!
+
+dc here,nice to meet you.
